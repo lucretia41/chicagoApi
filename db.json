@@ -1,0 +1,61 @@
+{  "artists": [
+
+{
+   
+    "api_link": "https://api.artic.edu/api/v1/artworks/4",
+  
+    "title": "Priest and Boy",
+   
+    
+    "date_end": 1880,
+   
+    "artist_display": "Lawrence Carmichael Earle\nAmerican, 1845-1921",
+    "place_of_origin": "United States",
+    
+    "artist_title": "Lawrence Carmichael Earle"},
+
+   
+{
+   
+    "api_link": "https://api.artic.edu/api/v1/artworks/9",
+    
+    "title": "Interior of St. Mark's, Venice",
+   
+    "date_end": 1869,
+ 
+    "place_of_origin": "Munich",
+   
+   
+    "artist_title": "David Dalhoff Neal"
+},
+
+{
+    
+    "api_link": "https://api.artic.edu/api/v1/artworks/11",
+    "title": "Self-Portrait",
+    "date_end": 1878,
+    "place_of_origin": "United States",
+    "artist_title": "Walter Shirlaw"
+    
+},
+
+{
+    "api_link": "https://api.artic.edu/api/v1/artworks/16",
+    "title": "The Fall of the Giants",
+    "date_end": 1663,
+    "place_of_origin": "Italy",
+    "artist_title":"Salvator Rosa"
+},
+
+{
+   
+   
+    "title": "View of Ponte Lugano on the Anio, from Views of Rome",
+    "date_end": 1763,
+    "place_of_origin": "Italy",
+    "artist_title": "Giovanni Battista Piranesi",
+    "api_link": "https://api.artic.edu/api/v1/artworks/19"
+   
+}
+
+]}
